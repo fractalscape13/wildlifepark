@@ -6,7 +6,6 @@ namespace Park
 {
   public class Program
   {
-    
     public static void Main()
     {
       string title = @"              
@@ -26,12 +25,12 @@ namespace Park
             X         XXXXXXXX     XXXXXXXX          X
             X                                        XX
                                 XX                    XX
-XX XXXXXXXXX  X  XXXX         XXXXX             X X XXXXXxXXXXX
+   XXXXXXXXX  X  XXXX         XXXXX             X X XXXXXxXXXXX
            X                 XXXXXXXX   XXX X X       X
            X        X                    XXXX         X
             XX X XXX            X            XXXXXXXXXX
            X XX        XX       X        X            XXXXXXXXX
-        XX    XXX       XX     XXX       X           XX
+       XXXX    XXX       XX     XXX       X           XXXX
                 XX       XXXXXXX XXXXXXXXX         XXX
                   XX                            XXX
                     XXX                    XX X

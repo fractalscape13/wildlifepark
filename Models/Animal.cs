@@ -79,16 +79,8 @@ namespace Park.Models
           Console.WriteLine($"Age: {animal.Age}");
           Console.WriteLine($"Dangerous: {animal.Danger}");
           Console.WriteLine("-------------------------------");
-
        }
      }
    }
-
   }
 }
-//string species, string aniName, string diet, int age, bool Dangerous
-// Species;
-//      AniName;
-//      Diet;
-//      Age;
-//      Dangerous;
